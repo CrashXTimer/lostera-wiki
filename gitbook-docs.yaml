@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: LostEra
+  structure:
+    - type: space
+      key: wiki
+      title: Wiki
+      path: ./
+      default: true
+      content:
+        directory: ./
+        language: fr
