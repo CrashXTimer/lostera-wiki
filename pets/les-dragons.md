@@ -16,8 +16,8 @@ Chaque Dragon appartient à une famille qui détermine la monnaie ou la statisti
 * **Perles** — boost Perles
 * **Level** — boost du multiplicateur de niveau
 * **Proc** — boost des procs d'enchantement
-* **Pass** — boost de l'expérience de pass
-* **Ultra** — famille spéciale
+* **Pass** — boost de l'expérience de passe
+* **Ultra** — booste à la fois les monnaies et statistiques de **tous tes autres Dragons** simultanément
 
 ## Les raretés
 
@@ -32,11 +32,10 @@ Plus la rareté est élevée, plus le niveau maximum et le boost du Dragon sont 
 * **Niveaux** : chaque Dragon peut monter jusqu'au niveau 100, gagnant de l'expérience en jouant (ou instantanément via un Livre d'Expérience).
 * **Fusion** : fusionner deux Dragons identiques permet d'obtenir un Dragon de rareté supérieure (avec une chance de réussite), ou d'augmenter sa rareté via un Livre de Rareté.
 * **Prestige (Pet Mastery)** : jusqu'à 5 prestiges par Dragon, chacun augmentant le niveau maximum (+5) et les statistiques (+0.5).
-* **Bonus aléatoire à l'obtention** : chaque Dragon obtenu reçoit un grade de C- à SSS, influençant son niveau de départ, son buff et son expérience.
 
-## Bonbons (Candy)
+## Statistiques
 
-En jouant, tu as une petite chance de trouver des **bonbons**, qui permettent d'améliorer tes Dragons. Les bonbons sont assez rares à obtenir.
+Un Dragon n'a **aucune statistique à l'obtention** : pour lui donner de bonnes stats, tu dois utiliser des **tickets de stats**, qui te permettent de tenter un tirage (roll) et d'espérer obtenir de bonnes valeurs.
 
 ## Améliorations globales
 
@@ -44,7 +43,6 @@ Des améliorations permanentes, achetées en Gemmes, s'appliquent à l'ensemble 
 
 * **Booster d'XP** — augmente la vitesse de gain d'expérience
 * **Level Cap** — augmente le niveau maximum atteignable
-* **Candy Finder** — augmente tes chances de trouver des bonbons
 
 ## Traits (Enhancements)
 

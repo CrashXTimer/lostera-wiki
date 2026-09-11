@@ -20,7 +20,7 @@ Le serveur suit le nombre de votes cumulés par **tous les joueurs** chaque sema
 | 6 | 60 | x1 Clé de Caisse Solaire |
 | 7 | 70 | 50 LostCoins |
 | 8 | 80 | x1 Œuf de Dragon Légendaire |
-| 9 | 90 | x1 Bâton de Vente (2 usages, 100 objets) |
+| 9 | 90 | x1 Bâton de Vente (multiplicateur de vente x2, 100 utilisations) |
 | 10 | 100 | x20 Slots de Gens |
 
 {% hint style="info" %}
@@ -29,7 +29,14 @@ Chaque palier ne peut être réclamé qu'une seule fois par semaine, une fois le
 
 ## Vote Party
 
-Quand le serveur atteint **150 votes cumulés**, une **Vote Party** se déclenche automatiquement et offre une récompense collective à tous les joueurs en ligne à ce moment-là !
+Quand le serveur atteint **150 votes cumulés**, une **Vote Party** se déclenche automatiquement : des **canards** (la mascotte de LostEra) apparaissent dans tout le `/warp champ` ! Récupère-en le plus possible en clic droit pour grimper dans le classement de l'événement.
+
+| Classement | Récompense |
+|---|---|
+| 🥇 1er | x5 Clés de Caisse Requin |
+| 🥈 2e | x3 Clés de Caisse Requin |
+| 🥉 3e | x1 Clé de Caisse Requin |
+| Participation | x3 Clés de Caisse Plage |
 
 ## Top voteurs du mois
 

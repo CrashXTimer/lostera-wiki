@@ -1,14 +1,16 @@
-# Hôtel des ventes
+# Hôtel des Ventes & Boutique Joueur
 
-L'hôtel des ventes (HDV) te permet d'acheter et de vendre des objets directement entre joueurs.
+## Hôtel des ventes
 
-## Commandes
+L'hôtel des ventes (HDV) te permet d'acheter et de vendre des objets directement entre joueurs, à distance.
+
+### Commandes
 
 | Commande | Description |
 |---|---|
 | `/ah` (ou `/hdv`, `/auction`, `/auctionhouse`) | Ouvrir l'hôtel des ventes |
 
-## Fonctionnement
+### Fonctionnement
 
 * **Monnaies acceptées** : Money, Orbes, Gemmes, Perles, LostCoins
 * **Prix minimum** : 1
@@ -20,9 +22,22 @@ L'hôtel des ventes (HDV) te permet d'acheter et de vendre des objets directemen
 Pense à récupérer tes objets ou tes gains avant la suppression définitive — passé ce délai, ils sont perdus.
 {% endhint %}
 
-## Objets non vendables
+## Boutique Joueur
 
-Certains objets ne peuvent pas être mis en vente à l'hôtel des ventes, notamment :
+La **Boutique Joueur** te permet de vendre et d'acheter des objets directement sur ton île, en face à face avec les autres joueurs — contrairement à l'hôtel des ventes qui fonctionne à distance.
 
-* Les outils personnalisés (houes, pioches, cannes à pêche) liés à un tier spécifique
-* Les modules de stockage (têtes de joueur spéciales)
+### Fonctionnement
+
+Place l'objet "Boutique Joueur" pour créer un stand de vente, visible via un hologramme au-dessus. Chaque stand peut fonctionner selon 3 modes :
+
+* **[VENTE]** — les autres joueurs achètent l'objet que tu proposes
+* **[ACHAT]** — tu achètes l'objet que les autres joueurs viennent te vendre
+* **[EXPOSITION]** — l'objet est uniquement décoratif, non échangeable
+
+### Monnaies acceptées
+
+Money, Gemmes, Orbes, Perles.
+
+{% hint style="info" %}
+Utilise `/playershops` pour gérer tes boutiques, et `/playershops give <joueur>` pour en offrir une à quelqu'un d'autre.
+{% endhint %}

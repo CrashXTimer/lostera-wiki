@@ -7,11 +7,17 @@ coverY: 0
 
 <figure><img src=".gitbook/assets/logo.png" alt="Logo LostEra" width="320"><figcaption></figcaption></figure>
 
-Bienvenue sur le wiki officiel de **LostEra** ! Tu trouveras ici toutes les informations nécessaires pour comprendre le serveur, progresser efficacement et profiter au maximum de ton aventure.
+**LostEra** est un serveur Minecraft **Gens Tycoon** francophone, lancé en septembre 2024. 1er serveur à avoir importé le mode de jeu Gens Tycoon sur le sol français, LostEra propose une expérience économique basée sur l'évolution des générateurs (gens), le farm optimisé et une progression compétitive.
+
+Ce wiki documente le mode **Gens Tycoon** de LostEra : tu trouveras ici toutes les informations nécessaires pour comprendre le serveur, progresser efficacement et profiter au maximum de ton aventure.
 
 {% hint style="info" %}
 Ce wiki est en cours de rédaction et sera complété au fur et à mesure de l'ajout de nouvelles fonctionnalités sur le serveur.
 {% endhint %}
+
+## 3 types de gameplay
+
+Es-tu plutôt fermier, mineur ou pêcheur dans l'âme ? Sur LostEra, ton outil s'adapte à ton style de jeu ! Améliore tes enchantements, équipe des boosts et deviens le leader de l'économie.
 
 ## De quoi parle ce wiki ?
 
@@ -23,7 +29,7 @@ Ce wiki couvre actuellement :
 * 💰 [Économie & Shop](economie/monnaies-et-shop.md) — monnaies, shop, caisses, LootBoxes, hôtel des ventes, coffres
 * 🏅 [Rangs & Permissions](rangs/rangs-et-permissions.md) — les grades achetables et leurs avantages
 * 🏝️ [Skyblock & Îles](skyblock/les-iles.md) — création et gestion de ton île
-* ⚙️ [Progression & Gens](progression/generateurs.md) — générateurs, omnitool, armures, totems, Pass LostEra
+* ⚙️ [Progression & Gens](progression/generateurs.md) — générateurs, Multi-Outil, armures, totems, Passe de Combat
 * 🐉 [Pets & Cosmétiques](pets/les-dragons.md) — Dragons et personnalisation esthétique
 
 ## Rejoindre le serveur
@@ -31,5 +37,5 @@ Ce wiki couvre actuellement :
 | | |
 |---|---|
 | **IP de connexion** | `play.lostera.fr` |
-| **Version** | 1.21.8 conseillée (toute version récente fonctionne grâce à ViaVersion/ViaBackwards) |
+| **Version** | 1.21.8 |
 | **Discord** | [discord.com/invite/lostera](https://discord.com/invite/lostera) |

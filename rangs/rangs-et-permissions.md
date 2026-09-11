@@ -1,10 +1,6 @@
 # Les rangs du serveur
 
-LostEra propose une gamme de **grades à vie** achetables directement en jeu via `/boutique` (menu *Grades*, contre des **LostCoins**), en plus des rangs staff.
-
-{% hint style="success" %}
-Cette liste vient directement du menu boutique en jeu (DeluxeMenus) — les prix et avantages sont donc à jour.
-{% endhint %}
+LostEra propose une gamme de **grades à vie** achetables directement en jeu via `/boutique` (menu *Grades*, contre des **LostCoins**).
 
 ## Grades joueurs
 
@@ -27,12 +23,8 @@ Les grades donnent aussi des multiplicateurs sur les niveaux d'outil, les procs 
 
 ## Améliorer son grade
 
-Depuis le menu `/boutique` → **Grades**, un emplacement dédié te propose automatiquement l'amélioration vers le grade suivant (tu ne paies que la différence de prix, pas le prix plein). Une fois **Légende** atteint, le menu indique que tu possèdes le grade maximal.
+Depuis le menu `/boutique` → **Grades**, un emplacement dédié te propose automatiquement l'amélioration vers le grade suivant (tu ne paies que la différence de prix, pas le prix plein).
 
 ## Acheter des LostCoins
 
 Les LostCoins s'achètent sur la boutique en ligne : `https://boutique.lostera.fr/`
-
-## Rangs staff
-
-En plus des grades joueurs achetables, LostEra dispose d'une hiérarchie de rangs pour l'équipe du serveur (modération, administration). Le détail précis de cette hiérarchie sera ajouté prochainement.

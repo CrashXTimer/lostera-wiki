@@ -6,35 +6,36 @@ LostEra utilise plusieurs monnaies, chacune ayant un usage spécifique dans ta p
 
 | Monnaie | Usage |
 |---|---|
-| **Money** (monnaie par défaut) | Monnaie générale, obtenue en vendant tes ressources |
+| **Money** | Monnaie générale, obtenue en vendant tes ressources — sert principalement à l'achat de **générateurs** |
 | **Orbes** | Monnaie liée au farming |
 | **Gemmes** | Monnaie liée au minage |
 | **Perles** | Monnaie liée à la pêche |
-| **LostCoins** | Monnaie additionnelle du serveur |
-| **Shards** | Monnaie de progression |
+| **LostCoins** | Monnaie premium du serveur |
 
 {% hint style="info" %}
 Money, Orbes, Gemmes, Perles et LostCoins sont toutes utilisables à l'[hôtel des ventes](hotel-des-ventes.md).
 {% endhint %}
 
+## Les LostCoins
+
+Les **LostCoins** sont la monnaie premium de LostEra, achetable avec de l'argent réel sur `https://boutique.lostera.fr/`. Mais pas de panique si tu ne veux pas payer : tu peux aussi en gagner en jouant, via de nombreuses sources en jeu (succès, Passe de Combat, paliers de vote, événements...).
+
 ## Autres monnaies spécifiques
 
-En plus des monnaies principales, LostEra possède des monnaies thématiques utilisées notamment pour les caisses : `Poudre`, `Jetons`, `Clé Uranus`, `Clé Lac`, `Clé Fermier`, `Clé Mineur`, `Clé Discord`, `Clé Solaire`, `Clé Terre`.
-
-Il existe également des variantes **Prestige** de plusieurs monnaies (Money, Gemmes, Point, Enchant, Orbes, Perles, Exp) débloquées via la progression de prestige.
+En plus des monnaies principales, LostEra possède des **clés de caisses** (virtuelles), obtenues notamment via les LootBoxes, le Pass ou l'achat de grades — voir la section [Caisses (Crates)](crates.md).
 
 ## Vendre tes ressources
 
 ### Le Bâton de Vente
 
-Le **Bâton de Vente** (Sell Wand) permet de vendre instantanément les ressources compatibles avec un multiplicateur de vente configurable. C'est le moyen le plus rapide de convertir tes récoltes en monnaie.
+Le **Bâton de Vente** (Sell Wand) permet de vendre instantanément le contenu d'un conteneur (coffre, baril ou [LostCollecteur](../gameplay/lostcollecteurs.md)) avec un multiplicateur de vente configurable. C'est le moyen le plus rapide de convertir tes récoltes stockées en monnaie.
 
 ### Le Shop
 
 Le shop `/shop` te permet d'acheter et de vendre des ressources et objets.
 
-{% hint style="warning" %}
-Le détail complet des prix du shop n'a pas pu être extrait automatiquement des fichiers de configuration — cette section sera complétée avec les prix exacts.
+{% hint style="success" %}
+Actuellement, tous les objets du shop classique sont **gratuits** (les générateurs restent payants). Profite-en tant que cette offre est active !
 {% endhint %}
 
 ## Classements liés à l'économie

@@ -4,11 +4,11 @@ Si tu dois t'absenter, la zone AFK te permet de continuer à progresser passivem
 
 ## Les 3 zones AFK
 
-| Zone | Activité | Monde |
-|---|---|---|
-| Farm | Farming | `Farm_World` |
-| Mine | Minage | `Mine_World` |
-| Lac | Pêche | `Lake_World` |
+| Zone | Activité |
+|---|---|
+| Farm | Farming |
+| Mine | Minage |
+| Lac | Pêche |
 
 ## Comment en profiter
 
@@ -18,6 +18,10 @@ Rends-toi dans la zone AFK correspondant à l'activité que tu veux continuer, e
 Tu dois obligatoirement tenir ton Multi-Outil en main pour bénéficier de la zone AFK.
 {% endhint %}
 
+{% hint style="danger" %}
+La zone AFK est **beaucoup moins rentable** que le farming manuel — c'est une option pratique pour ne pas rester totalement inactif pendant ton absence, mais elle ne remplace pas une session de jeu active.
+{% endhint %}
+
 {% hint style="info" %}
-Le [Super Cookie Boost](cookies-et-collecteurs.md) offre un bonus de +25% de vitesse de farm en Zone AFK.
+Le [Super Cookie Boost](super-cookie-boost.md) offre un bonus de +25% de vitesse de farm en Zone AFK.
 {% endhint %}

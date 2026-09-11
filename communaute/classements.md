@@ -23,3 +23,29 @@ Les mêmes catégories de farming, minage, pêche et total classé existent éga
 {% hint style="info" %}
 Ces classements sont affichés en jeu via des hologrammes répartis à différents points stratégiques du serveur (spawn, zones de farm/mine/pêche).
 {% endhint %}
+
+## Classements récompensés en LostCoins
+
+Certains classements rapportent des **LostCoins** aux meilleurs joueurs, avec un reset régulier :
+
+### Top Farm (reset hebdomadaire)
+
+Récompense séparément le top 3 de chacune des 3 catégories de récolte (Cultures, Minerais, Poissons) :
+
+| Position | Récompense |
+|---|---|
+| 🥇 1er | 1 000 LostCoins + Titre exclusif |
+| 🥈 2e | 750 LostCoins |
+| 🥉 3e | 500 LostCoins |
+
+### Top Vote (reset le 1er de chaque mois)
+
+| Position | Récompense |
+|---|---|
+| 🥇 1er | 2 500 LostCoins |
+| 🥈 2e | 2 000 LostCoins |
+| 🥉 3e | 1 500 LostCoins |
+
+### Top Trophées (par île, reset hebdomadaire)
+
+Voir le détail complet sur la page [Les îles](../skyblock/les-iles.md#classement-des-iles-island-top).

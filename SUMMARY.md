@@ -10,7 +10,7 @@
 * [Monnaies & Shop](economie/monnaies-et-shop.md)
 * [Caisses (Crates)](economie/crates.md)
 * [LootBoxes & Boutique](economie/lootboxes-et-boutique.md)
-* [Hôtel des ventes](economie/hotel-des-ventes.md)
+* [Hôtel des Ventes & Boutique Joueur](economie/hotel-des-ventes.md)
 * [Coffres personnels (Vaults)](economie/coffres-personnels.md)
 
 ## Rangs & Permissions
@@ -20,14 +20,13 @@
 ## Skyblock & Îles
 
 * [Les îles](skyblock/les-iles.md)
-* [Les mondes du serveur](skyblock/les-mondes.md)
 
 ## Progression & Gens
 
 * [Les générateurs](progression/generateurs.md)
-* [Le Multi-Outil (Omnitool)](progression/omnitool.md)
+* [Le Multi-Outil](progression/omnitool.md)
 * [Armures & Totems](progression/armures-et-totems.md)
-* [Le Pass LostEra](progression/pass-lostera.md)
+* [La Passe de Combat](progression/pass-lostera.md)
 
 ## Pets & Cosmétiques
 
@@ -45,6 +44,11 @@
 
 * [Duels](gameplay/duels.md)
 * [Roue de la fortune](gameplay/roue-de-la-fortune.md)
-* [Cookies & Collecteurs](gameplay/cookies-et-collecteurs.md)
+* [Super Cookie Boost](gameplay/super-cookie-boost.md)
+* [LostCollecteurs](gameplay/lostcollecteurs.md)
 * [Sac à dos (Backpack)](gameplay/sac-a-dos.md)
 * [Zone AFK](gameplay/zone-afk.md)
+
+## Mécaniques Customs
+
+* [Vue d'ensemble](mecaniques-customs/vue-densemble.md)

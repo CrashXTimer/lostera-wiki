@@ -1,26 +1,42 @@
 # Les générateurs
 
-Les générateurs sont l'un des piliers de ta progression : ils produisent automatiquement des ressources sur ton île, même quand tu es hors ligne.
+Les générateurs sont l'un des piliers de ta progression : posés sur ton île, ils produisent automatiquement des ressources, vendables contre de la **Money**.
 
 ## Fonctionnement
 
-* Chaque joueur peut posséder jusqu'à **5 générateurs** simultanément.
+* Chaque générateur posé occupe **1 slot de gens** — il n'y a pas de limite fixe au nombre de générateurs : ta limite dépend uniquement du nombre de slots de gens que tu as débloqués (via ton [grade](../rangs/rangs-et-permissions.md) et d'autres récompenses).
+* Un générateur ne produit **que si le chunk sur lequel il se trouve est chargé** (un joueur doit être présent à proximité, ou le chunk maintenu chargé autrement).
+
+{% hint style="warning" %}
+Les doubles comptes (alts) sont autorisés uniquement pour rester AFK sur ton île et maintenir les chunks de tes générateurs chargés. En revanche, si un double compte est pris en train de récupérer des récompenses (Passe de Combat, succès, etc.), une sanction sera appliquée.
+{% endhint %}
 * Les générateurs s'améliorent avec l'argent gagné, et deviennent exponentiellement plus chers à chaque palier, mais rapportent de plus en plus.
 * Tu peux gérer tes générateurs via la commande dédiée ou en interagissant directement avec eux en jeu.
 
 ## Les Chromas
 
-Les **Chromas** sont des artefacts qui viennent booster tes générateurs. Ils existent en **5 tiers de rareté** :
+Les **Chromas** sont des artefacts qui viennent booster tes générateurs. Il existe **4 types de Chromas**, chacun boostant une statistique différente :
 
-| Tier | Rareté |
+| Type de Chroma | Effet |
 |---|---|
-| 1 | Commun |
-| 2 | Rare |
-| 3 | Épique |
-| 4 | Légendaire |
-| 5 | Exotique |
+| **Soldes** | Réduction du prix d'amélioration des générateurs |
+| **Intelligence** | Bonus d'expérience |
+| **Chance** | Bonus de taux d'apparition (spawnrate) |
+| **Fortune** | Bonus de gains en Money |
 
-Les emplacements de Chroma se débloquent par paliers, en fonction du nombre total de blocs récoltés par tes générateurs (par exemple aux paliers de 1 000, 8 500 et 22 500 blocs).
+Chaque type de Chroma existe en **5 raretés**, du plus faible au plus fort boost :
+
+| Rareté |
+|---|
+| Commun |
+| Rare |
+| Épique |
+| Légendaire |
+| Exotique |
+
+## Emplacements de Chromas
+
+Un générateur dispose de plusieurs emplacements de Chroma, débloqués progressivement en **pêchant un certain nombre de poissons**.
 
 {% hint style="info" %}
 Plus le tier d'un Chroma est élevé, plus le boost qu'il apporte à tes générateurs est important.

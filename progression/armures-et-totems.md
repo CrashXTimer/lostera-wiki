@@ -14,15 +14,16 @@ Les armures de LostEra apportent un boost direct à une monnaie spécifique. Ell
 Chaque set complet (casque, plastron, jambières, bottes) cumule donc jusqu'à **+100%** sur la monnaie correspondante. Le prix d'achat est de 1 500 Shards.
 
 {% hint style="info" %}
-5 skins visuels sont disponibles pour personnaliser l'apparence de ton armure.
+Ces armures sont **uniquement virtuelles** : elles n'affichent rien sur ton personnage, seul leur bonus s'applique.
 {% endhint %}
+
+En plus des sets classiques, une **armure spéciale** est obtenable dans chaque [LootBoxe](../economie/lootboxes-et-boutique.md) de la boutique.
 
 ## Les totems
 
 Les **totems** sont des relics qui donnent un multiplicateur supplémentaire à un booster de ton choix.
 
 * Ils s'obtiennent principalement via des **vouchers de totem**, répartis en **7 tiers** — plus le tier est élevé, plus la plage de boost potentielle est large.
-* Tu peux **fusionner 3 totems identiques** pour obtenir un totem de tier supérieur.
 * Un emplacement de totem supplémentaire peut être acheté à la boutique (500 LostCoins), et des emplacements se débloquent aussi selon ton niveau de prestige minage.
 
 {% hint style="warning" %}

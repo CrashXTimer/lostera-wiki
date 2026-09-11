@@ -3,38 +3,22 @@
 En plus des grades, la boutique en jeu (`/boutique`) propose des LootBoxes et divers objets utiles à ta progression, achetables en **LostCoins**.
 
 {% hint style="info" %}
-Les LostCoins s'achètent sur la boutique en ligne : `https://boutique.lostera.fr/`
+Les LostCoins s'achètent sur la boutique en ligne : `https://boutique.lostera.fr/`, mais peuvent aussi être gagnés en jouant.
 {% endhint %}
 
-## LootBoxes
+## Les LootBoxes
 
-5 types de LootBox sont disponibles, chacune vendue en pack de x1 / x3 / x5 / x10 / x25 (avec une remise croissante allant jusqu'à -20% sur les plus gros packs) :
+Une nouvelle LootBoxe sort chaque semaine, du début à la fin de la saison, avec son propre lot de récompenses exclusives.
 
-* **LootBox Lancement**
-* **LootBox Plage**
-* **LootBox Pique-Nique**
-* **LootBox Crabe**
-* **LootBox Requin**
+Chaque LootBoxe ouverte te donne :
 
-La LootBox Requin (la plus prisée) contient notamment des tirages de récompenses exclusives allant de grosses sommes de Money/Orbes/Gemmes/Perles jusqu'à des objets très rares comme un grade Hero temporaire, des colis de totems exotiques ou un collecteur infini.
+* **5 récompenses exclusives**
+* **1 récompense Jackpot**, bien plus rare et généreuse
 
-## Objets divers de la boutique
+## Objets divers & Bundles
 
-| Objet | Prix (LostCoins) |
-|---|---|
-| Booster (Money / Orbes / Gemmes / Perles / Levels) | 300 |
-| Slot de Dragon (pet) | 300 |
-| Slot de Totem | 500 |
-| Caisse de Capacité | 1 500 |
-| Super Cookie Boost | 750 |
-| Pass Premium | 2 000 |
-| Capacité d'omnitool (Houe/Pioche) — Météorite, Boost Mystère, Lucky Block | 2 000 chacune |
-| Capacité de canne à pêche — Tsunami, Lucky Charm, Pêche Chanceuse | 2 000 chacune |
+La boutique propose aussi régulièrement des objets utiles à ta progression, ainsi que des bundles ponctuels (packs à prix réduit regroupant plusieurs objets).
 
-{% hint style="warning" %}
-Le **Pass Premium+** s'achète uniquement en argent réel (20€) via la boutique en ligne, et non en LostCoins.
-{% endhint %}
+## Notre philosophie : pas de Pay2Win
 
-## Bundles
-
-Des bundles ponctuels (packs à achat unique) sont également proposés, regroupant plusieurs objets à prix réduit — par exemple le **Bundle Requin**, qui combine LootBoxes, tickets de pets et récompenses de progression.
+Sur LostEra, on fait tout notre possible pour éviter le Pay2Win. La boutique existe avant tout pour **financer le serveur** et permettre de continuer à le développer et l'améliorer — pas pour donner un avantage décisif à ceux qui dépensent le plus. Un joueur qui ne met jamais un euro doit pouvoir progresser et rivaliser avec les autres.
