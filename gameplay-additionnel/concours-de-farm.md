@@ -8,18 +8,18 @@ Un concours nécessite au moins **10 joueurs en ligne** pour se déclencher, et 
 
 ## Les 3 concours
 
-| Concours | Zone | Outil concerné |
-|---|---|---|
-| Concours de Farm Champ | `/warp champ` | Houe |
-| Concours de Farm Mine | `/warp mine` | Pioche |
-| Concours de Farm Lac | `/warp peche` | Canne à pêche |
+| Concours               | Zone          | Outil concerné |
+| ---------------------- | ------------- | -------------- |
+| Concours de Farm Champ | `/warp champ` | Houe           |
+| Concours de Farm Mine  | `/warp mine`  | Pioche         |
+| Concours de Farm Lac   | `/warp peche` | Canne à pêche  |
 
 ## Récompenses
 
-Seul le top 3 du classement est récompensé, en Clés de Caisse Plage :
+Seul le top 3 du classement est récompensé, en Clés de Caisse Rare :
 
-| Position | Récompense |
-|---|---|
-| 🥇 1er | x3 Clés de Caisse Plage |
-| 🥈 2e | x2 Clés de Caisse Plage |
-| 🥉 3e | x1 Clé de Caisse Plage |
+| Position | Récompense               |
+| -------- | ------------------------ |
+| 🥇 1er   | x3 Clés de Caisse Rare   |
+| 🥈 2e    | x2 Clés de Caisse Rare   |
+| 🥉 3e    | x1 Clé de Caisse Rare    |
