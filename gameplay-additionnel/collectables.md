@@ -33,5 +33,5 @@ Le boost s'applique sur la monnaie de ton choix : Money, Orbes, Gemmes, Perles o
 Il existe 21 Collectables différents à collectionner, chacune avec son propre nom et son propre design, par exemple : Insecte Collector, Clé du Serveur, Plume de Phoenix, Pierre Philosophale, Trèfle Chanceux, Œil de Dragon, et bien d'autres.
 
 {% hint style="info" %}
-Les collectables ne sont lié au joueurs que lorsque ce dernier fait un clic droit avec l'objet en main, ils sont donc échangeables.
+Les collectables ne sont liés au joueur que lorsque celui-ci fait un clic droit avec l'objet en main ; avant cela, ils sont échangeables.
 {% endhint %}
