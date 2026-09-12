@@ -1,10 +1,10 @@
 # Les Dragons
 
-Les **Dragons** sont le système de pets de LostEra : ils t'accompagnent et te donnent des boosts passifs à ta progression.
+Les **Dragons** sont le système de pets de LostEra : ils vous accompagnent et vous donnent des boosts passifs à votre progression.
 
 ## Emplacements
 
-Tu disposes d'**1 emplacement de Dragon actif** par défaut, extensible jusqu'à **4 emplacements** (achetables à la boutique pour 300 LostCoins chacun).
+Vous disposez d'**1 emplacement de Dragon actif** par défaut, extensible jusqu'à **4 emplacements** (achetables à la boutique pour 300 LostCoins chacun).
 
 ## Les familles de Dragons
 
@@ -17,7 +17,7 @@ Chaque Dragon appartient à une famille qui détermine la monnaie ou la statisti
 * **Level** — boost du multiplicateur de niveau
 * **Proc** — boost des procs d'enchantement
 * **Pass** — boost de l'expérience de passe
-* **Ultra** — booste à la fois les monnaies et statistiques de **tous tes autres Dragons** simultanément
+* **Ultra** — booste à la fois les monnaies et statistiques de **tous vos autres Dragons** simultanément
 
 ## Les raretés
 
@@ -38,11 +38,11 @@ Les dragons de rareté "Commun" ne peuvent pas être fusionnés
 
 ## Statistiques
 
-Un Dragon n'a **aucune statistique bonus à l'obtention** : pour lui donner de bonnes stats, tu dois utiliser des **tickets de stats**, qui te permettent de tenter un tirage et d'espérer obtenir de bonnes valeurs.
+Un Dragon n'a **aucune statistique bonus à l'obtention** : pour lui donner de bonnes stats, vous devez utiliser des **tickets de stats**, qui vous permettent de tenter un tirage et d'espérer obtenir de bonnes valeurs.
 
 ## Améliorations globales
 
-Des améliorations permanentes, achetées en Gemmes, s'appliquent à l'ensemble de tes Dragons :
+Des améliorations permanentes, achetées en Gemmes, s'appliquent à l'ensemble de vos Dragons :
 
 * **Booster d'XP** — augmente la vitesse de gain d'expérience
 * **Level Cap** — augmente le niveau maximum atteignable
@@ -57,5 +57,5 @@ Les Dragons peuvent recevoir des **traits** aléatoires via des tickets d'améli
 * **Traits combinés** — un trait rare qui cumule les 3 effets à la fois
 
 {% hint style="warning" %}
-Les Dragons sont liés à ton compte et ne peuvent être transférés à un autre joueur que via un parchemin dédié.
+Les Dragons sont liés à votre compte et ne peuvent être transférés à un autre joueur que via un parchemin dédié.
 {% endhint %}

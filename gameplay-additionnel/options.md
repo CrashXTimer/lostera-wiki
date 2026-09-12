@@ -1,6 +1,6 @@
 # /option
 
-Le menu `/option` te permet de personnaliser ton confort de jeu.
+Le menu `/option` vous permet de personnaliser votre confort de jeu.
 
 ## Réglages disponibles
 
@@ -20,5 +20,5 @@ Le menu `/option` te permet de personnaliser ton confort de jeu.
 
 {% hint style="warning" %}
 L'option **Auto-Prestige** nécessite le grade **Hero** minimum.\
-Les options **Auto-Vente** & **Auto-Condense** nécessite le grade **Pionnier** minimum.
+Les options **Auto-Vente** & **Auto-Condense** nécessitent le grade **Pionnier** minimum.
 {% endhint %}

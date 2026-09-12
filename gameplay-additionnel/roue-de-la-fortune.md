@@ -1,11 +1,11 @@
 # Roue de la fortune
 
-La **Roue de la Fortune** se trouve au **spawn** et te permet de tenter ta chance pour gagner de **belles récompenses** en dépensant un **jeton**.
+La **Roue de la Fortune** se trouve au **spawn** et vous permet de tenter votre chance pour gagner de **belles récompenses** en dépensant un **jeton**.
 
 ## Comment jouer
 
 * Chaque tour coûte **1 jeton**.
-* Tu reçois **1 jeton gratuit chaque jour** simplement en te connectant.
+* Vous recevez **1 jeton gratuit chaque jour** simplement en vous connectant.
 
 ## Table des gains
 

@@ -14,18 +14,18 @@ Les armures de LostEra apportent un boost direct à une **monnaie spécifique**.
 Chaque set complet (casque, plastron, jambières, bottes) cumule donc jusqu'à **+100%** sur la monnaie correspondante. Le prix d'achat est de 1 500 Fragments.
 
 {% hint style="info" %}
-Ces armures sont **uniquement virtuelles** : elles n'affichent rien sur ton personnage, seul leur bonus s'applique.
+Ces armures sont **uniquement virtuelles** : elles n'affichent rien sur votre personnage, seul leur bonus s'applique.
 {% endhint %}
 
 En plus des sets classiques, une **armure spéciale** est obtenable dans chaque [LootBoxe](../economie-and-shop/lootboxes-et-boutique.md) de la boutique.
 
 ## Les totems
 
-Les **totems** sont des reliques qui donnent un multiplicateur supplémentaire à un booster de ton choix.
+Les **totems** sont des reliques qui donnent un multiplicateur supplémentaire à un booster de votre choix.
 
 * Ils s'obtiennent principalement via des **Totem Box**, répartis en **7 tiers** — plus le tier est élevé, plus la plage de boost potentielle est large.
-* Un emplacement de totem supplémentaire peut être acheté à la boutique (500 LostCoins), et des emplacements se débloquent aussi selon ton niveau de prestige minage.
+* Un emplacement de totem supplémentaire peut être acheté à la boutique (500 LostCoins), et des emplacements se débloquent aussi selon votre niveau de prestige minage.
 
 {% hint style="warning" %}
-Les totems sont propres au joueur : leur équipement affecte directement ton multiplicateur global, donc choisis bien le booster à améliorer selon ton style de jeu.
+Les totems sont propres au joueur : leur équipement affecte directement votre multiplicateur global, donc choisissez bien le booster à améliorer selon votre style de jeu.
 {% endhint %}

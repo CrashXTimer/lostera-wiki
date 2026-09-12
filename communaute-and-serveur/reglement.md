@@ -4,29 +4,29 @@
 Nous ne sommes pas responsables si vous ne connaissez pas les règles ! Il est de la responsabilité de chaque joueur de les connaître et de se tenir informé des changements éventuels.
 {% endhint %}
 
-En rejoignant LostEra, tu acceptes l'intégralité de ce règlement, ainsi que le [Règlement Chat](https://docs.google.com/document/u/0/d/1bOoPhP-Lg5Oc_5V44zJBsYt81R1KHQ10ve-IEUdbIeA/edit) et le [Règlement Mode GENS](https://docs.google.com/document/u/0/d/1gjMvEqDgJf0KJ0RXG7vP6W76hPWaC2rSPiz5CAWsK7A/edit), qui complètent ce document.
+En rejoignant LostEra, vous acceptez l'intégralité de ce règlement, ainsi que le [Règlement Chat](https://docs.google.com/document/u/0/d/1bOoPhP-Lg5Oc_5V44zJBsYt81R1KHQ10ve-IEUdbIeA/edit) et le [Règlement Mode GENS](https://docs.google.com/document/u/0/d/1gjMvEqDgJf0KJ0RXG7vP6W76hPWaC2rSPiz5CAWsK7A/edit), qui complètent ce document.
 
 ## Réinitialisation des sanctions
 
-Tous les avertissements et les mutes sont réinitialisés après **7 jours**. Si tu as été averti dans les 7 derniers jours, la chaîne de sanctions se poursuit ; passé ce délai, elle repart à zéro. Toute tentative d'abus de ce système entraîne une sanction de la part de l'équipe.
+Tous les avertissements et les mutes sont réinitialisés après **7 jours**. Si vous avez été averti dans les 7 derniers jours, la chaîne de sanctions se poursuit ; passé ce délai, elle repart à zéro. Toute tentative d'abus de ce système entraîne une sanction de la part de l'équipe.
 
 ## Informations importantes
 
 * Les règles doivent être suivies exactement : aucun membre du staff ne peut les modifier à sa convenance, sauf lorsqu'une sanction n'est pas explicitement prévue mais s'impose clairement.
 * Contourner une règle par plaisanterie entraîne une sanction définitive ; faire un appel par plaisanterie peut entraîner une sanction plus sévère encore.
 * « Gestion » désigne tout membre du staff ayant le rang d'administrateur ou plus. Les décisions de gestion sont prises collégialement, jamais par un seul membre.
-* Pour un litige avec un membre ayant le rang d'administrateur ou plus, contacte directement **pxnshy** ou **xmrmitsuki** sur Discord (pas de ticket).
-* Pour proposer une nouvelle règle, contacte **pxnshy** ou **xmrmitsuki** sur Discord. Pour clarifier une règle existante, ouvre un ticket Discord.
+* Pour un litige avec un membre ayant le rang d'administrateur ou plus, contactez directement **pxnshy** ou **xmrmitsuki** sur Discord (pas de ticket).
+* Pour proposer une nouvelle règle, contactez **pxnshy** ou **xmrmitsuki** sur Discord. Pour clarifier une règle existante, ouvrez un ticket Discord.
 * Une sanction n'est annulée que si elle a été appliquée à tort.
 
 ## Directives diverses
 
-* Pour signaler un membre du staff, ouvre un ticket Discord sans mentionner son nom tant qu'il est encore en poste.
+* Pour signaler un membre du staff, ouvrez un ticket Discord sans mentionner son nom tant qu'il est encore en poste.
 * Créer de faux tickets (ex. fausse sanction injuste) peut entraîner un bannissement permanent. La sévérité reste à la discrétion d'un administrateur ou plus.
 * Un appel de bannissement rejeté peut faire l'objet d'une demande de clarification ; si les preuves sont évidentes, l'appel est clos.
-* En cas de mort causée par un avantage déloyal ou un hack, ouvre un ticket avec preuves.
+* En cas de mort causée par un avantage déloyal ou un hack, ouvrez un ticket avec preuves.
 * Pour signaler une île utilisant des exploits, des preuves plausibles sont requises.
-* Le Discord doit rester un espace décontracté ; en cas de sanction jugée injuste, contacte un supérieur.
+* Le Discord doit rester un espace décontracté ; en cas de sanction jugée injuste, contactez un supérieur.
 
 ## Menaces de DDOS, DOX et SWAT
 

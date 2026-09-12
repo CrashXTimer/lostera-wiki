@@ -1,6 +1,6 @@
 # LootBoxes & Boutique
 
-En plus des grades, la boutique en jeu (`/boutique`) propose des LootBoxes et divers objets utiles à ta progression, achetables en **LostCoins**.
+En plus des grades, la boutique en jeu (`/boutique`) propose des LootBoxes et divers objets utiles à votre progression, achetables en **LostCoins**.
 
 {% hint style="info" %}
 Les LostCoins s'achètent sur la boutique en ligne : `https://boutique.lostera.fr/`, mais peuvent aussi être gagnés en jouant ou **échangés** auprès d'autres joueurs.
@@ -10,14 +10,14 @@ Les LostCoins s'achètent sur la boutique en ligne : `https://boutique.lostera.f
 
 Une nouvelle LootBoxe sort **chaque semaine**, du début à la fin de la saison, avec son propre lot de **récompenses exclusives**.
 
-Chaque **LootBoxe** ouverte te donne :
+Chaque **LootBoxe** ouverte vous donne :
 
 * **5 récompenses exclusives**
 * **1 récompense Jackpot**, bien plus **rare** et **généreuse**
 
 ## Objets divers & Bundles
 
-La boutique propose aussi régulièrement des objets utiles à ta progression, ainsi que des bundles ponctuels (packs à prix réduit regroupant plusieurs objets).
+La boutique propose aussi régulièrement des objets utiles à votre progression, ainsi que des bundles ponctuels (packs à prix réduit regroupant plusieurs objets).
 
 ## Notre philosophie : pas de Pay2Win
 

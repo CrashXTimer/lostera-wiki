@@ -1,10 +1,10 @@
 # Collectables
 
-Les **Collectables** sont des objets rares que tu peux trouver en farmant, en minant ou en pêchant. Une fois équipées, elles te donnent un boost permanent.
+Les **Collectables** sont des objets rares que vous pouvez trouver en farmant, en minant ou en pêchant. Une fois équipées, elles vous donnent un boost permanent.
 
 ## Obtention
 
-Chaque relique a une petite chance d'apparaître pendant tes activités :
+Chaque relique a une petite chance d'apparaître pendant vos activités :
 
 | Activité | Chance de drop |
 | -------- | -------------- |
@@ -25,7 +25,7 @@ Chaque relique obtenue possède une rareté, qui détermine la force de son boos
 | Exotique   | 1%     | +30%  |
 
 {% hint style="info" %}
-Le boost s'applique sur la monnaie de ton choix : Money, Orbes, Gemmes, Perles ou Exp.
+Le boost s'applique sur la monnaie de votre choix : Money, Orbes, Gemmes, Perles ou Exp.
 {% endhint %}
 
 ## Les Collectables

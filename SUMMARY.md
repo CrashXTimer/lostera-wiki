@@ -56,3 +56,8 @@
 * [Duels](gameplay-additionnel/duels.md)
 * [/stream](gameplay-additionnel/stream.md)
 * [/option](gameplay-additionnel/options.md)
+
+## Contribuer au serveur
+
+* [Rejoindre le staff](contribuer-au-serveur/rejoindre-le-staff.md)
+* [Proposer une modification au wiki](contribuer-au-serveur/proposer-une-modification-au-wiki.md)

@@ -1,6 +1,6 @@
 # Coffres personnels
 
-Les coffres personnels (vaults) te permettent de stocker des objets en dehors de ton inventaire, accessibles depuis n'importe où.
+Les coffres personnels (vaults) vous permettent de stocker des objets en dehors de votre inventaire, accessibles depuis n'importe où.
 
 ## Commande
 
@@ -12,8 +12,8 @@ Les coffres personnels (vaults) te permettent de stocker des objets en dehors de
 
 * **Nombre de coffres maximum** : 12
 * **Taille par défaut** : 6 lignes (54 emplacements) par coffre
-* **Déblocage** : le nombre de coffres accessibles dépend de ton [grade](../grades/rangs-et-permissions.md)
+* **Déblocage** : le nombre de coffres accessibles dépend de votre [grade](../grades/rangs-et-permissions.md)
 
 {% hint style="info" %}
-Vérifie `/pv` en jeu pour voir combien de coffres tu as débloqués avec ton grade actuel.
+Vérifiez `/pv` en jeu pour voir combien de coffres vous avez débloqués avec votre grade actuel.
 {% endhint %}

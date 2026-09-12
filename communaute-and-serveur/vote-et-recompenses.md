@@ -4,7 +4,7 @@ Voter pour LostEra est l'un des meilleurs moyens de **soutenir le serveur** tout
 
 ## Voter
 
-Rends-toi sur `https://lostera.fr/vote` pour accéder à la liste des sites de vote. **Chaque vote** te rapporte directement des **récompenses** (clés de caisse, LostCoins), consultables depuis le menu `/vote` en jeu.
+Rendez-vous sur `https://lostera.fr/vote` pour accéder à la liste des sites de vote. **Chaque vote** vous rapporte directement des **récompenses** (clés de caisse, LostCoins), consultables depuis le menu `/vote` en jeu.
 
 ## Paliers de vote hebdomadaires
 
@@ -29,7 +29,7 @@ Chaque palier ne peut être réclamé qu'une seule fois par semaine, une fois le
 
 ## Vote Party
 
-Quand le serveur atteint **150 votes cumulés**, une **Vote Party** se déclenche automatiquement : des **canards** (la mascotte de LostEra) apparaissent dans tout le `/warp champ` ! Récupère-en le plus possible avec **clic droit** pour grimper dans le **classement de l'événement**.
+Quand le serveur atteint **150 votes cumulés**, une **Vote Party** se déclenche automatiquement : des **canards** (la mascotte de LostEra) apparaissent dans tout le `/warp champ` ! Récupérez-en le plus possible avec **clic droit** pour grimper dans le **classement de l'événement**.
 
 | Classement    | Récompense              |
 | ------------- | ----------------------- |

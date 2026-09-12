@@ -1,6 +1,6 @@
 # Classements
 
-LostEra suit de nombreux classements, aussi bien individuels que par île, pour te permettre de comparer ta progression aux autres joueurs et équipes.
+LostEra suit de nombreux classements, aussi bien individuels que par île, pour vous permettre de comparer votre progression aux autres joueurs et équipes.
 
 ## Classements individuels
 
@@ -18,7 +18,7 @@ LostEra suit de nombreux classements, aussi bien individuels que par île, pour 
 
 ## Classements par île
 
-Les mêmes catégories de farming, minage, pêche et total classé existent également **par île**, en solo/duo/trio/team, pour comparer les performances de ton équipe à celles des autres îles du serveur.
+Les mêmes catégories de farming, minage, pêche et total classé existent également **par île**, en solo/duo/trio/team, pour comparer les performances de votre équipe à celles des autres îles du serveur.
 
 {% hint style="info" %}
 Ces classements sont affichés en jeu via des hologrammes répartis à différents points stratégiques du serveur (spawn, zones de farm/mine/pêche).

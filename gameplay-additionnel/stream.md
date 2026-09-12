@@ -1,20 +1,20 @@
 # /stream
 
-Le système `/stream` te permet de faire connaître ton live Twitch ou YouTube directement aux autres joueurs de LostEra, et de te faire connaître en retour !
+Le système `/stream` vous permet de faire connaître votre live Twitch ou YouTube directement aux autres joueurs de LostEra, et de vous faire connaître en retour !
 
-## Déclarer ton stream
+## Déclarer votre stream
 
-1. Mets le tag **`[LostEra]`** dans le titre de ton stream Twitch ou YouTube.
+1. Mettez le tag **`[LostEra]`** dans le titre de votre stream Twitch ou YouTube.
 2. Le serveur vérifie automatiquement les streams en cours toutes les **5 minutes**.
-3. Utilise `/stream` en jeu pour activer/désactiver ton stream et le configurer.
+3. Utilisez `/stream` en jeu pour activer/désactiver votre stream et le configurer.
 
 {% hint style="info" %}
-Le serveur peut te demander de confirmer que tu streames toujours via `/stream confirm`.
+Le serveur peut vous demander de confirmer que vous streamez toujours via `/stream confirm`.
 {% endhint %}
 
 ## Récompense
 
-Chaque joueur qui visite ton stream depuis le serveur te rapporte **5 LostCoins**.
+Chaque joueur qui visite votre stream depuis le serveur vous rapporte **5 LostCoins**.
 
 ## Rappels automatiques dans le chat
 
@@ -22,4 +22,4 @@ Le serveur annonce périodiquement dans le chat les streamers actuellement en li
 
 ## Favoris
 
-Tu peux ajouter des streamers à tes favoris pour être notifié dès qu'ils passent en live.
+Vous pouvez ajouter des streamers à vos favoris pour être notifié dès qu'ils passent en live.

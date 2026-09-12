@@ -1,6 +1,6 @@
 # LostCollecteurs
 
-Les **LostCollecteurs** sont des objets à poser sur ton île qui récoltent automatiquement **toutes les ressources** possédant un prix de vente.
+Les **LostCollecteurs** sont des objets à poser sur votre île qui récoltent automatiquement **toutes les ressources** possédant un prix de vente.
 
 Leur **limite de stockage** n'est pas un nombre d'objets, mais une **valeur cumulée** : le collecteur se remplit tant que la valeur totale des ressources stockées n'a pas atteint son plafond.
 

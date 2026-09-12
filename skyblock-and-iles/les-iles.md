@@ -1,6 +1,6 @@
 # Les îles
 
-Le système d'îles de LostEra te permet de jouer seul ou en équipe, de progresser en créant la meilleure **usine de générateurs** possible.
+Le système d'îles de LostEra vous permet de jouer seul ou en équipe, de progresser en créant la meilleure **usine de générateurs** possible.
 
 ## Créer ou rejoindre une île
 
@@ -8,7 +8,7 @@ Le système d'îles de LostEra te permet de jouer seul ou en équipe, de progres
 /is create <nom>
 ```
 
-Tu peux aussi rejoindre l'île d'un ami en équipe plutôt que de jouer en solo.
+Vous pouvez aussi rejoindre l'île d'un ami en équipe plutôt que de jouer en solo.
 
 | Commande                         | Description                          |
 | -------------------------------- | ------------------------------------ |
@@ -24,7 +24,7 @@ Tu peux aussi rejoindre l'île d'un ami en équipe plutôt que de jouer en solo.
 
 ## Améliorations d'île
 
-Depuis le menu d'amélioration d'île, tu peux investir de la Money pour repousser plusieurs limites :
+Depuis le menu d'amélioration d'île, vous pouvez investir de la Money pour repousser plusieurs limites :
 
 ### Limite de Hoppers
 
@@ -51,10 +51,10 @@ Depuis le menu d'amélioration d'île, tu peux investir de la Money pour repouss
 
 ## Classement des îles (Island Top)
 
-Le classement des îles repose sur un système de **trophées** : ton île en gagne en fonction de ton classement hebdomadaire dans les activités de farming, minage, pêche et gens (voir [Classements](../communaute-and-serveur/classements.md)).
+Le classement des îles repose sur un système de **trophées** : votre île en gagne en fonction de votre classement hebdomadaire dans les activités de farming, minage, pêche et gens (voir [Classements](../communaute-and-serveur/classements.md)).
 
 {% hint style="warning" %}
-Selon le nombre de membres sur ton île, tu es comparé dans l'un de ces **2 classements de trophées distincts** :
+Selon le nombre de membres sur votre île, vous êtes comparé dans l'un de ces **2 classements de trophées distincts** :
 
 * **Solo** — îles à 1 seul membre
 * **Team+** — îles à 2 membres ou plus

@@ -1,22 +1,22 @@
 # Les générateurs
 
-Les générateurs sont l'un des **piliers de ta progression** : posés sur ton île, ils produisent automatiquement des ressources, vendables contre de la **Money**.
+Les générateurs sont l'un des **piliers de votre progression** : posés sur votre île, ils produisent automatiquement des ressources, vendables contre de la **Money**.
 
 ## Fonctionnement
 
-* Chaque générateur posé occupe **1 slot de gens** — il n'y a pas de limite fixe au nombre de générateurs, ta limite dépend uniquement du nombre de slots de gens que tu as débloqués (via ton [grade](../grades/rangs-et-permissions.md) et d'autres récompenses).
+* Chaque générateur posé occupe **1 slot de gens** — il n'y a pas de limite fixe au nombre de générateurs, votre limite dépend uniquement du nombre de slots de gens que vous avez débloqués (via votre [grade](../grades/rangs-et-permissions.md) et d'autres récompenses).
 * Un générateur ne produit **que si le chunk sur lequel il se trouve est chargé** (un joueur doit être présent à proximité, ou le chunk maintenu chargé via un ChunkPoint).
 
 {% hint style="warning" %}
-Les doubles comptes (alts) sont autorisés uniquement pour rester AFK sur ton île et maintenir les chunks de tes générateurs chargés. En revanche, si un double compte est pris en train de récupérer des récompenses (Passe de Combat, succès, etc.), une sanction sera appliquée.
+Les doubles comptes (alts) sont autorisés uniquement pour rester AFK sur votre île et maintenir les chunks de vos générateurs chargés. En revanche, si un double compte est pris en train de récupérer des récompenses (Passe de Combat, succès, etc.), une sanction sera appliquée.
 {% endhint %}
 
 * Les générateurs s'améliorent avec l'argent gagné, et deviennent exponentiellement plus chers à chaque palier, mais rapportent de plus en plus.
-* Tu peux gérer tes générateurs via la commande dédiée ou en interagissant directement avec eux en jeu.
+* Vous pouvez gérer vos générateurs via la commande dédiée ou en interagissant directement avec eux en jeu.
 
 ## Les Chromas
 
-Les **Chromas** sont des artefacts qui viennent booster tes générateurs. Il existe **4 types de Chromas**, chacun boostant une statistique différente :
+Les **Chromas** sont des artefacts qui viennent booster vos générateurs. Il existe **4 types de Chromas**, chacun boostant une statistique différente :
 
 | Type de Chroma   | Effet                                            |
 | ---------------- | ------------------------------------------------ |
@@ -40,5 +40,5 @@ Chaque type de Chroma existe en **5 raretés**, du plus faible au plus fort :
 Il existe plusieurs emplacements de Chroma, débloqués progressivement en **pêchant un certain nombre de poissons**.
 
 {% hint style="info" %}
-Plus le tier d'un Chroma est élevé, plus le boost qu'il apporte à tes générateurs est important.
+Plus le tier d'un Chroma est élevé, plus le boost qu'il apporte à vos générateurs est important.
 {% endhint %}

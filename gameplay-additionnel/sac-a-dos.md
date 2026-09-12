@@ -1,15 +1,15 @@
 # Sac à dos
 
-Ton sac à dos (`/sac`) stocke automatiquement toutes les ressources récoltées avec ton Multi-Outil, sans encombrer ton inventaire.
+Votre sac à dos (`/sac`) stocke automatiquement toutes les ressources récoltées avec votre Multi-Outil, sans encombrer votre inventaire.
 
-## Vendre le contenu de ton sac
+## Vendre le contenu de votre sac
 
-Tu peux vendre directement depuis l'interface du sac à dos, ou utiliser les raccourcis en jeu :
+Vous pouvez vendre directement depuis l'interface du sac à dos, ou utiliser les raccourcis en jeu :
 
 | Commande     | Effet                                          |
 | ------------ | ---------------------------------------------- |
-| `/sell`      | Vend tout le contenu vendable de ton sac à dos |
-| `/sell hand` | Vend uniquement l'objet que tu tiens en main   |
+| `/sell`      | Vend tout le contenu vendable de votre sac à dos |
+| `/sell hand` | Vend uniquement l'objet que vous tenez en main   |
 
 ## Paliers de capacité
 
@@ -30,16 +30,16 @@ Le sac à dos possède **10 paliers** de capacité, achetables avec de la Money 
 
 ## Multiplicateur de vente
 
-Un système de niveaux augmente le multiplicateur de vente appliqué à ton sac, jusqu'à environ **x3.5** au niveau maximum. Ce multiplicateur s'applique aussi bien à la vente automatique qu'aux commandes `/sell` et `/sell hand`.
+Un système de niveaux augmente le multiplicateur de vente appliqué à votre sac, jusqu'à environ **x3.5** au niveau maximum. Ce multiplicateur s'applique aussi bien à la vente automatique qu'aux commandes `/sell` et `/sell hand`.
 
 ## Duplication de vente
 
-Un second système de niveaux augmente la chance de dupliquer le gain d'une vente, pour maximiser tes revenus passifs.
+Un second système de niveaux augmente la chance de dupliquer le gain d'une vente, pour maximiser vos revenus passifs.
 
 ## Fonctionnalités automatiques
 
-* **Auto-condense** — condense automatiquement le contenu de ton sac toutes les 2 minutes.
-* **Auto-vente** — vend automatiquement le contenu de ton sac toutes les 2 minutes.
+* **Auto-condense** — condense automatiquement le contenu de votre sac toutes les 2 minutes.
+* **Auto-vente** — vend automatiquement le contenu de votre sac toutes les 2 minutes.
 
 {% hint style="info" %}
 Les commandes `/autocondense` et `/autovente` nécessitent le [grade](../grades/rangs-et-permissions.md) **Pionnier** minimum, indispensables pour jouer efficacement en semi-AFK.

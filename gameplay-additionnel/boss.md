@@ -1,9 +1,9 @@
 # Boss
 
-Des **Boss** apparaissent à heures fixes sur les 3 zones de récolte. Récolte des ressources pour faire baisser sa vie et grimper dans le classement de dégâts !
+Des **Boss** apparaissent à heures fixes sur les 3 zones de récolte. Récoltez des ressources pour faire baisser sa vie et grimper dans le classement de dégâts !
 
 {% hint style="info" %}
-Un Boss nécessite au moins **5 joueurs en ligne** pour se déclencher, et ne peut pas apparaître si un autre Boss est déjà actif au même moment. Consulte `/boss` en jeu pour voir les prochains horaires.
+Un Boss nécessite au moins **5 joueurs en ligne** pour se déclencher, et ne peut pas apparaître si un autre Boss est déjà actif au même moment. Consultez `/boss` en jeu pour voir les prochains horaires.
 {% endhint %}
 
 ## Les 3 Boss

@@ -1,6 +1,6 @@
 # Caisses
 
-Les caisses te permettent d'obtenir des récompenses aléatoires en échange de clés. Elles se trouvent au `/warp caisse`.
+Les caisses vous permettent d'obtenir des récompenses aléatoires en échange de clés. Elles se trouvent au `/warp caisse`.
 
 ## Les caisses de monde
 
@@ -13,7 +13,7 @@ Chaque zone de progression possède sa propre caisse, directement sur place :
 | **Caisse Lac**     | `/warp peche` |
 
 {% hint style="info" %}
-Les clés de ces caisses de monde peuvent notamment être obtenues grâce à l'enchantement **Trésor** sur ton outil, en plus des autres sources de clés.
+Les clés de ces caisses de monde peuvent notamment être obtenues grâce à l'enchantement **Trésor** sur votre outil, en plus des autres sources de clés.
 {% endhint %}
 
 ## Les caisses du spawn

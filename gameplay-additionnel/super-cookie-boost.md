@@ -7,7 +7,7 @@ Le **Super Cookie Boost** est un objet consommable actif pendant **24 heures** a
 * 5% de chance de doubler la récompense finale d'une LootBoxe
 * 5% de chance d'obtenir un Tirage d'Atout gratuit
 * 5% de chance d'obtenir un ticket de Dragon gratuit
-* 10% de chance de doubler ta progression "Coup de Chance"
+* 10% de chance de doubler votre progression "Coup de Chance"
 * +25% de vitesse de farm en [Zone AFK](zone-afk.md)
 * Bonus de Slot de Totem pendant 24h
 

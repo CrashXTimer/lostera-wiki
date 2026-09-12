@@ -1,6 +1,6 @@
 # Concours de Farm
 
-Régulièrement, un **Concours de Farm** se déclenche automatiquement sur l'une des 3 zones de récolte du serveur. Pendant **10 minutes**, récolte un maximum de ressources pour grimper dans le classement de l'événement !
+Régulièrement, un **Concours de Farm** se déclenche automatiquement sur l'une des 3 zones de récolte du serveur. Pendant **10 minutes**, récoltez un maximum de ressources pour grimper dans le classement de l'événement !
 
 {% hint style="info" %}
 Un concours nécessite au moins **10 joueurs en ligne** pour se déclencher, et ne peut pas se lancer si un [Boss](boss.md) est déjà actif au même moment.

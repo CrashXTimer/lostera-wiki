@@ -2,7 +2,7 @@
 
 ## Hôtel des ventes
 
-L'hôtel des ventes (HDV) te permet d'acheter et de vendre des objets directement entre joueurs, à distance.
+L'hôtel des ventes (HDV) vous permet d'acheter et de vendre des objets directement entre joueurs, à distance.
 
 ### Commandes
 
@@ -16,22 +16,22 @@ L'hôtel des ventes (HDV) te permet d'acheter et de vendre des objets directemen
 * **Prix minimum** : 1
 * **Prix maximum** : aucune limite
 * **Durée avant expiration d'une annonce** : 48 heures
-* **Suppression définitive** : 14 jours après l'expiration (le temps de récupérer tes objets/gains)
+* **Suppression définitive** : 14 jours après l'expiration (le temps de récupérer vos objets/gains)
 
 {% hint style="info" %}
-Pense à récupérer tes objets ou tes gains avant la suppression définitive — passé ce délai, ils sont perdus.
+Pensez à récupérer vos objets ou vos gains avant la suppression définitive — passé ce délai, ils sont perdus.
 {% endhint %}
 
 ## Boutique Joueur
 
-La **Boutique Joueur** te permet de vendre et d'acheter des objets directement sur ton île, en face à face avec les autres joueurs — contrairement à l'hôtel des ventes qui fonctionne à distance.
+La **Boutique Joueur** vous permet de vendre et d'acheter des objets directement sur votre île, en face à face avec les autres joueurs — contrairement à l'hôtel des ventes qui fonctionne à distance.
 
 ### Fonctionnement
 
-Place l'objet "Boutique Joueur" pour créer un stand de vente, visible via un hologramme au-dessus. Chaque stand peut fonctionner selon 3 modes :
+Placez l'objet "Boutique Joueur" pour créer un stand de vente, visible via un hologramme au-dessus. Chaque stand peut fonctionner selon 3 modes :
 
-* **\[VENTE]** — les autres joueurs achètent l'objet que tu proposes
-* **\[ACHAT]** — tu achètes l'objet que les autres joueurs viennent te vendre
+* **\[VENTE]** — les autres joueurs achètent l'objet que vous proposez
+* **\[ACHAT]** — vous achetez l'objet que les autres joueurs viennent vous vendre
 * **\[EXPOSITION]** — l'objet est uniquement décoratif, non échangeable
 
 ### Monnaies acceptées
