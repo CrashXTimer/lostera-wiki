@@ -1,6 +1,6 @@
 # Les générateurs
 
-Les générateurs sont l'un des **piliers de ta progression**: posés sur ton île, ils produisent automatiquement des ressources, vendables contre de la **Money**.
+Les générateurs sont l'un des **piliers de ta progression** : posés sur ton île, ils produisent automatiquement des ressources, vendables contre de la **Money**.
 
 ## Fonctionnement
 
@@ -25,7 +25,7 @@ Les **Chromas** sont des artefacts qui viennent booster tes générateurs. Il ex
 | **Chance**       | Bonus de vitesse de génération                   |
 | **Fortune**      | Bonus de gains en Money                          |
 
-Chaque type de Chroma existe en **5 raretés**, du plus faible au plus fort:
+Chaque type de Chroma existe en **5 raretés**, du plus faible au plus fort :
 
 | Rareté     |
 | ---------- |

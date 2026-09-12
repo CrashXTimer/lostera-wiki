@@ -3,7 +3,7 @@
 En plus des grades, la boutique en jeu (`/boutique`) propose des LootBoxes et divers objets utiles à ta progression, achetables en **LostCoins**.
 
 {% hint style="info" %}
-Les LostCoins s'achètent sur la boutique en ligne : `https://boutique.lostera.fr/`, mais peuvent aussi être gagnés en jouant ou **échanger** auprès d'autres joueurs.
+Les LostCoins s'achètent sur la boutique en ligne : `https://boutique.lostera.fr/`, mais peuvent aussi être gagnés en jouant ou **échangés** auprès d'autres joueurs.
 {% endhint %}
 
 ## Les LootBoxes

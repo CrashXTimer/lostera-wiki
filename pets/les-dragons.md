@@ -33,7 +33,7 @@ Plus la rareté est élevée, plus le niveau maximum et le boost du Dragon sont 
 * **Fusion** : fusionner deux Dragons identiques permet d'obtenir un Dragon de rareté supérieure (avec une chance de réussite).
 
 {% hint style="warning" %}
-Les dragons de rareté "Commun" ne peuvent pas être fusionner
+Les dragons de rareté "Commun" ne peuvent pas être fusionnés
 {% endhint %}
 
 ## Statistiques

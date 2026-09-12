@@ -21,7 +21,7 @@ Money, Orbes, Gemmes, Perles et LostCoins sont toutes utilisables à l'[hôtel d
 Les **LostCoins** sont la monnaie premium de LostEra, achetable avec de l'argent réel sur `https://boutique.lostera.fr/`. Mais pas de panique si tu ne veux pas payer : tu peux aussi en **gagner en jouant**, via de nombreuses sources en jeu (succès, Passe de Combat, paliers de vote, événements...).
 
 {% hint style="info" %}
-Les **LostCoins** sont **échangeables entre joueurs**, à vous de commercé pour vous enrichir!
+Les **LostCoins** sont **échangeables entre joueurs**, à toi de commercer pour t'enrichir !
 {% endhint %}
 
 ## Autres monnaies spécifiques

@@ -37,7 +37,6 @@ Les cosmétiques **exclusifs** sont uniques : un seul joueur sur tout le serveur
 
 ## Ouverture de caisse cosmétique
 
-Lors de l'ouverture d'une **Caisse Cosmétique**, un **message globale** est envoyé à tout les joueurs du serveur qui peuvent alors **rejoindre votre session** afin d'assister a votre tirage.\
-\
-Lorsqu'un joueur **enchaîne plusieurs ouvertures** de caisse cosmétiques, le prix d'ouverture de la caisse **diminue jusqu'à un maximum de 5 fois**.
+Lors de l'ouverture d'une **Caisse Cosmétique**, un **message global** est envoyé à tous les joueurs du serveur, qui peuvent alors **rejoindre ta session** afin d'assister à ton tirage.
 
+Lorsqu'un joueur **enchaîne plusieurs ouvertures** de caisses cosmétiques, le prix d'ouverture de la caisse **diminue, jusqu'à un maximum de 5 fois**.

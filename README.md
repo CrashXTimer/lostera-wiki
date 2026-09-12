@@ -27,7 +27,7 @@ LostEra est un serveur orienté **progression** : tu développes ton île, tu mo
 Ce wiki couvre actuellement :
 
 * 🚀 [Démarrage rapide](demarrage-rapide.md) — Comment bien débuter sur le serveur
-* 💰 [Économie & Shop](economie/monnaies-et-shop.md) — Monnaies, Shop, Caisses, LootBoxes, Hôtel Des Ventes
+* 💰 [Économie & Shop](economie/monnaies-et-shop.md) — Monnaies, Shop, Caisses, LootBoxes, Hôtel des Ventes
 * 🏅 [Rangs & Permissions](grades/rangs-et-permissions.md) — Les grades achetables et leurs avantages
 * 🏝️ [Skyblock & Îles](skyblock/les-iles.md) — Création et gestion de ton île
 * ⚙️ [Progression & Gens](progression/generateurs.md) — Générateurs, Multi-Outil, Armures, Totems, Passe de Combat

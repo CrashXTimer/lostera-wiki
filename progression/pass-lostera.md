@@ -1,6 +1,6 @@
 # La Passe de Combat
 
-La **Passe de Combat** (`/pass` ) est un système de récompenses saisonnier : plus tu joues, plus tu progresses dans la passe et débloques de récompenses.
+La **Passe de Combat** (`/pass`) est un système de récompenses saisonnier : plus tu joues, plus tu progresses dans la passe et débloques de récompenses.
 
 ## Fonctionnement
 

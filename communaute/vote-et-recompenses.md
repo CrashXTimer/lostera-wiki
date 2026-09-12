@@ -40,7 +40,7 @@ Quand le serveur atteint **150 votes cumulés**, une **Vote Party** se déclench
 
 ## Top voteurs du mois
 
-Chaque mois, les **3 joueurs** ayant le plus voté reçoivent une **récompense spéciale**:
+Chaque mois, les **3 joueurs** ayant le plus voté reçoivent une **récompense spéciale** :
 
 | Position | Récompense                      |
 | -------- | ------------------------------- |

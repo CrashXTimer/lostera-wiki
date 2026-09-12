@@ -9,11 +9,11 @@ Chaque discipline (minage, farming, pêche) possède son propre système de prog
 * **Prestige** : jusqu'à un maximum très élevé (10K), le coût augmentant à chaque prestige.
 * **Niveaux** : jusqu'à 100 paliers de niveau par discipline, chacun renforçant ton efficacité.
 
-Passer un prestige de Multi-Outil ne réinitialise pas seulement ton niveau: cela débloque également de nouveaux enchantements, boosts et aussi de nouvelles ressources à récolter (qui se revendent de plus en plus cher).
+Passer un prestige de Multi-Outil ne réinitialise pas seulement ton niveau : cela débloque également de nouveaux enchantements, boosts et aussi de nouvelles ressources à récolter (qui se revendent de plus en plus cher).
 
 ## Cristaux
 
-Les **cristaux** s'équipent sur ton Multi-Outil pour booster tes chances de d'activer tes enchantement. Chaque enchantement possède son propre cristal dédié.
+Les **cristaux** s'équipent sur ton Multi-Outil pour booster tes chances d'activer tes enchantements. Chaque enchantement possède son propre cristal dédié.
 
 ## Atouts
 
@@ -34,4 +34,4 @@ Ton Multi-Outil peut aussi être équipé de compétences actives, obtenues via 
 
 De nombreuses apparences (skins) sont achetable en **Money** pour personnaliser ton **Multi-Outil**, débloquées progressivement au fil de ta progression — de l'apparence de départ en Bois jusqu'à des dizaines d'apparences de plus en plus prestigieuses.
 
-Chaque skin possède **5 paliers**, chacun d'entre eux te donneras un **boost d'expérience** de plus en plus élevé !
+Chaque skin possède **5 paliers**, chacun d'entre eux te donnera un **boost d'expérience** de plus en plus élevé !
