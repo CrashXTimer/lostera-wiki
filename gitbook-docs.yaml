@@ -5,7 +5,7 @@ site:
     - type: space
       key: wiki
       title: Wiki
-      path: ./
+      path: .
       default: true
       content:
         directory: ./
