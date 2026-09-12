@@ -6,11 +6,11 @@ LostEra propose un large système de cosmétiques purement esthétiques, accessi
 
 Les cosmétiques sont classés par rareté, chacune ayant sa propre couleur :
 
-| Rareté |
-|---|
-| Commun |
-| Rare |
-| Épique |
+| Rareté   |
+| -------- |
+| Commun   |
+| Rare     |
+| Épique   |
 | Exotique |
 | Exclusif |
 
@@ -32,3 +32,12 @@ Les cosmétiques **exclusifs** sont uniques : un seul joueur sur tout le serveur
 * **Skins d'outils** — apparences pour ta houe, ta pioche et ta canne à pêche
 * **Équipement** — objets cosmétiques en main gauche
 * **Effets de texte** — modifie la façon dont tu écris dans le chat (ex. Gras, Italique, Souligné)
+
+
+
+## Ouverture de caisse cosmétique
+
+Lors de l'ouverture d'une **Caisse Cosmétique**, un **message globale** est envoyé à tout les joueurs du serveur qui peuvent alors **rejoindre votre session** afin d'assister a votre tirage.\
+\
+Lorsqu'un joueur **enchaîne plusieurs ouvertures** de caisse cosmétiques, le prix d'ouverture de la caisse **diminue jusqu'à un maximum de 5 fois**.
+

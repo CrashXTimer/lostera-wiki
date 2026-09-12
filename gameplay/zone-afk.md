@@ -1,14 +1,10 @@
 # Zone AFK
 
-Si tu dois t'absenter, la zone AFK te permet de continuer à progresser passivement pendant ton absence.
+Si tu dois t'absenter, la **zone AFK** te permet de continuer à **progresser passivement** pendant ton absence.
 
 ## Les 3 zones AFK
 
-| Zone | Activité |
-|---|---|
-| Farm | Farming |
-| Mine | Minage |
-| Lac | Pêche |
+{% include "../.gitbook/includes/untitled.md" %}
 
 ## Comment en profiter
 

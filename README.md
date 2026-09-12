@@ -1,9 +1,10 @@
 ---
 cover: .gitbook/assets/banniere.png
-coverY: 0
+coverY: -5.555555555555555
+coverHeight: 357
 ---
 
-# Bienvenue sur le wiki de LostEra
+# Introduction
 
 <figure><img src=".gitbook/assets/logo.png" alt="Logo LostEra" width="320"><figcaption></figcaption></figure>
 
@@ -25,17 +26,17 @@ LostEra est un serveur orienté **progression** : tu développes ton île, tu mo
 
 Ce wiki couvre actuellement :
 
-* 🚀 [Démarrage rapide](demarrage-rapide.md) — comment bien débuter sur le serveur
-* 💰 [Économie & Shop](economie/monnaies-et-shop.md) — monnaies, shop, caisses, LootBoxes, hôtel des ventes, coffres
-* 🏅 [Rangs & Permissions](rangs/rangs-et-permissions.md) — les grades achetables et leurs avantages
-* 🏝️ [Skyblock & Îles](skyblock/les-iles.md) — création et gestion de ton île
-* ⚙️ [Progression & Gens](progression/generateurs.md) — générateurs, Multi-Outil, armures, totems, Passe de Combat
+* 🚀 [Démarrage rapide](demarrage-rapide.md) — Comment bien débuter sur le serveur
+* 💰 [Économie & Shop](economie/monnaies-et-shop.md) — Monnaies, Shop, Caisses, LootBoxes, Hôtel Des Ventes
+* 🏅 [Rangs & Permissions](grades/rangs-et-permissions.md) — Les grades achetables et leurs avantages
+* 🏝️ [Skyblock & Îles](skyblock/les-iles.md) — Création et gestion de ton île
+* ⚙️ [Progression & Gens](progression/generateurs.md) — Générateurs, Multi-Outil, Armures, Totems, Passe de Combat
 * 🐉 [Pets & Cosmétiques](pets/les-dragons.md) — Dragons et personnalisation esthétique
 
 ## Rejoindre le serveur
 
-| | |
-|---|---|
-| **IP de connexion** | `play.lostera.fr` |
-| **Version** | 1.21.8 |
-| **Discord** | [discord.com/invite/lostera](https://discord.com/invite/lostera) |
+|                     |                                                                  |
+| ------------------- | ---------------------------------------------------------------- |
+| **IP de connexion** | `play.lostera.fr`                                                |
+| **Version**         | 1.21.8 conseillée                                                |
+| **Discord**         | [discord.com/invite/lostera](https://discord.com/invite/lostera) |

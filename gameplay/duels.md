@@ -1,6 +1,6 @@
 # Duels
 
-Défie un autre joueur dans un duel de récolte grâce à la commande `/duel <pseudo>` (alias `/farmduel`).
+Défie un autre joueur dans un duel de récolte grâce à la commande `/duel <pseudo>`&#x20;
 
 ## Fonctionnement
 

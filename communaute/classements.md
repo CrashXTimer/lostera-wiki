@@ -1,19 +1,19 @@
-# Classements (Top)
+# Classements
 
 LostEra suit de nombreux classements, aussi bien individuels que par île, pour te permettre de comparer ta progression aux autres joueurs et équipes.
 
 ## Classements individuels
 
-| Catégorie | Classements disponibles |
-|---|---|
-| **Économie** | Money, Orbes, Gemmes, Perles |
-| **Temps de jeu** | Playtime |
-| **Farming classé** | Solo, Duo, Trio, Team |
-| **Minage classé** | Solo, Duo, Trio, Team |
-| **Pêche classée** | Solo, Duo, Trio, Team |
-| **Total classé** | Solo, Duo, Trio, Team |
-| **Prestige** | Global, Houe, Pioche, Canne à pêche |
-| **Votes** | Nombre de votes |
+| Catégorie                      | Classements disponibles                           |
+| ------------------------------ | ------------------------------------------------- |
+| **Économie**                   | Money, Orbes, Gemmes, Perles                      |
+| **Temps de jeu**               | Playtime                                          |
+| **Farming classé**             | Solo, Duo, Trio, Team                             |
+| **Minage classé**              | Solo, Duo, Trio, Team                             |
+| **Pêche classée**              | Solo, Duo, Trio, Team                             |
+| **Total classé**               | Solo, Duo, Trio, Team                             |
+| **Prestige**                   | Global, Houe, Pioche, Canne à pêche               |
+| **Votes**                      | Nombre de votes                                   |
 | **Récolte hebdomadaire brute** | Cultures farmées, minerais minés, poissons pêchés |
 
 ## Classements par île
@@ -32,20 +32,20 @@ Certains classements rapportent des **LostCoins** aux meilleurs joueurs, avec un
 
 Récompense séparément le top 3 de chacune des 3 catégories de récolte (Cultures, Minerais, Poissons) :
 
-| Position | Récompense |
-|---|---|
-| 🥇 1er | 1 000 LostCoins + Titre exclusif |
-| 🥈 2e | 750 LostCoins |
-| 🥉 3e | 500 LostCoins |
+| Position | Récompense                       |
+| -------- | -------------------------------- |
+| 🥇 1er   | 1 000 LostCoins + Titre exclusif |
+| 🥈 2e    | 750 LostCoins                    |
+| 🥉 3e    | 500 LostCoins                    |
 
-### Top Vote (reset le 1er de chaque mois)
+### Top Vote (reset mensuel)
 
-| Position | Récompense |
-|---|---|
-| 🥇 1er | 2 500 LostCoins |
-| 🥈 2e | 2 000 LostCoins |
-| 🥉 3e | 1 500 LostCoins |
+| Position | Récompense      |
+| -------- | --------------- |
+| 🥇 1er   | 2 500 LostCoins |
+| 🥈 2e    | 2 000 LostCoins |
+| 🥉 3e    | 1 500 LostCoins |
 
-### Top Trophées (par île, reset hebdomadaire)
+### Top Trophées (reset hebdomadaire)
 
 Voir le détail complet sur la page [Les îles](../skyblock/les-iles.md#classement-des-iles-island-top).

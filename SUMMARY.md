@@ -1,4 +1,4 @@
-# Table des matières
+# Table of contents
 
 ## Bienvenue
 
@@ -8,14 +8,14 @@
 ## Économie & Shop
 
 * [Monnaies & Shop](economie/monnaies-et-shop.md)
-* [Caisses (Crates)](economie/crates.md)
+* [Caisses](economie/crates.md)
 * [LootBoxes & Boutique](economie/lootboxes-et-boutique.md)
 * [Hôtel des Ventes & Boutique Joueur](economie/hotel-des-ventes.md)
-* [Coffres personnels (Vaults)](economie/coffres-personnels.md)
+* [Coffres personnels](economie/coffres-personnels.md)
 
-## Rangs & Permissions
+## Grades
 
-* [Les rangs du serveur](rangs/rangs-et-permissions.md)
+* [Les grades du serveur](grades/rangs-et-permissions.md)
 
 ## Skyblock & Îles
 
@@ -23,21 +23,21 @@
 
 ## Progression & Gens
 
-* [Les générateurs](progression/generateurs.md)
 * [Le Multi-Outil](progression/omnitool.md)
+* [Les générateurs](progression/generateurs.md)
 * [Armures & Totems](progression/armures-et-totems.md)
 * [La Passe de Combat](progression/pass-lostera.md)
 
 ## Pets & Cosmétiques
 
-* [Les Dragons (Pets)](pets/les-dragons.md)
+* [Les Dragons](pets/les-dragons.md)
 * [Cosmétiques](cosmetiques/cosmetiques.md)
 
 ## Communauté & Serveur
 
 * [Règlement du serveur](communaute/reglement.md)
 * [Chat & Discord](communaute/chat-et-discord.md)
-* [Classements (Top)](communaute/classements.md)
+* [Classements](communaute/classements.md)
 * [Vote & récompenses](communaute/vote-et-recompenses.md)
 
 ## Gameplay additionnel
@@ -46,9 +46,6 @@
 * [Roue de la fortune](gameplay/roue-de-la-fortune.md)
 * [Super Cookie Boost](gameplay/super-cookie-boost.md)
 * [LostCollecteurs](gameplay/lostcollecteurs.md)
-* [Sac à dos (Backpack)](gameplay/sac-a-dos.md)
+* [Sac à dos](gameplay/sac-a-dos.md)
 * [Zone AFK](gameplay/zone-afk.md)
-
-## Mécaniques Customs
-
-* [Vue d'ensemble](mecaniques-customs/vue-densemble.md)
+* [ChunkPoints](gameplay-additionnel/chunkpoints.md)

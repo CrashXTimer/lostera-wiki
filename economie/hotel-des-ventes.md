@@ -6,8 +6,8 @@ L'hôtel des ventes (HDV) te permet d'acheter et de vendre des objets directemen
 
 ### Commandes
 
-| Commande | Description |
-|---|---|
+| Commande                                       | Description               |
+| ---------------------------------------------- | ------------------------- |
 | `/ah` (ou `/hdv`, `/auction`, `/auctionhouse`) | Ouvrir l'hôtel des ventes |
 
 ### Fonctionnement
@@ -30,14 +30,10 @@ La **Boutique Joueur** te permet de vendre et d'acheter des objets directement s
 
 Place l'objet "Boutique Joueur" pour créer un stand de vente, visible via un hologramme au-dessus. Chaque stand peut fonctionner selon 3 modes :
 
-* **[VENTE]** — les autres joueurs achètent l'objet que tu proposes
-* **[ACHAT]** — tu achètes l'objet que les autres joueurs viennent te vendre
-* **[EXPOSITION]** — l'objet est uniquement décoratif, non échangeable
+* **\[VENTE]** — les autres joueurs achètent l'objet que tu proposes
+* **\[ACHAT]** — tu achètes l'objet que les autres joueurs viennent te vendre
+* **\[EXPOSITION]** — l'objet est uniquement décoratif, non échangeable
 
 ### Monnaies acceptées
 
 Money, Gemmes, Orbes, Perles.
-
-{% hint style="info" %}
-Utilise `/playershops` pour gérer tes boutiques, et `/playershops give <joueur>` pour en offrir une à quelqu'un d'autre.
-{% endhint %}
